@@ -1,0 +1,15 @@
+﻿body
+{
+    background-color:cadetblue !important;
+}
+h1{
+    margin-top:50px !important;
+    margin-bottom: 25px !important;
+    background-color:darkgreen;
+    border-radius:10px;
+    color:antiquewhite;
+}
+thead{
+    background-color:black !important;
+}
+
